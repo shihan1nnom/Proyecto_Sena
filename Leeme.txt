@@ -1,1 +1,4 @@
 Proyecto Sena
+
+integrantes:
+paola pardo 1015411328
